@@ -17,7 +17,7 @@ To analyze and visualize business performance using Tableau by answering 32 data
 The project uses Tableau’s **Story and Story Points** feature to guide users through a structured visual narrative.  
 Includes an interactive dashboard with **Navigation + KPI Overview**.
 
-👉 **[View Project on Tableau Public](https://public.tableau.com/views/SuperStoreAnalysis_17454229729830/NavigationKPI?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+👉 **[View Project on Tableau Public](https://public.tableau.com/app/profile/daksh.vanshaj/viz/InsightDeckSuperStore/NavigationKPI))**
 
 ---
 
